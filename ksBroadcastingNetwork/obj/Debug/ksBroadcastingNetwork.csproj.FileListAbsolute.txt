@@ -6,3 +6,11 @@ D:\repos\ACC\Sources\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.cspro
 D:\repos\ACC\Sources\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.csproj.CopyComplete
 D:\repos\ACC\Sources\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.dll
 D:\repos\ACC\Sources\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.pdb
+D:\repos\ACCBroadcastingTool-Modified\ksBroadcastingNetwork\bin\Debug\ksBroadcastingNetwork.dll
+D:\repos\ACCBroadcastingTool-Modified\ksBroadcastingNetwork\bin\Debug\ksBroadcastingNetwork.pdb
+D:\repos\ACCBroadcastingTool-Modified\ksBroadcastingNetwork\bin\Debug\log4net.dll
+D:\repos\ACCBroadcastingTool-Modified\ksBroadcastingNetwork\bin\Debug\log4net.xml
+D:\repos\ACCBroadcastingTool-Modified\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.csproj.CoreCompileInputs.cache
+D:\repos\ACCBroadcastingTool-Modified\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.csproj.CopyComplete
+D:\repos\ACCBroadcastingTool-Modified\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.dll
+D:\repos\ACCBroadcastingTool-Modified\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.pdb

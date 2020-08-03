@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\repos\ACC\Sources\ksBroadcastingTestClient\obj\Debug\
+D:\repos\ACCBroadcastingTool-Modified\ksBroadcastingTestClient\obj\Debug\
 ksBroadcastingTestClient
 none
 false
 DEBUG;TRACE
-D:\repos\ACC\Sources\ksBroadcastingTestClient\App.xaml
+D:\repos\ACCBroadcastingTool-Modified\ksBroadcastingTestClient\App.xaml
 15-1396887574
 
 41698348707
-27763377824
+27-459090151
 Autopilot\AutopilotCarView.xaml;Autopilot\AutopilotView.xaml;Autopilot\AutopilotWeightsView.xaml;Autopilot\CameraManagementView.xaml;Autopilot\CarWeightCategoryView.xaml;Broadcasting\BroadcastingEventView.xaml;Broadcasting\EntryListView.xaml;Broadcasting\LiveTimingCarView.xaml;Broadcasting\ReplayControlView.xaml;Broadcasting\SessionInfoView.xaml;Broadcasting\TrackCameraView.xaml;Broadcasting\TrackMap.xaml;ClientConnections\ClientConnectionView.xaml;ClientConnections\ClientPanelView.xaml;MainWindow.xaml;
 
 False
