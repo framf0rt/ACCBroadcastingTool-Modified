@@ -1,0 +1,8 @@
+D:\repos\ACC\Sources\ksBroadcastingNetwork\bin\Debug\ksBroadcastingNetwork.dll
+D:\repos\ACC\Sources\ksBroadcastingNetwork\bin\Debug\ksBroadcastingNetwork.pdb
+D:\repos\ACC\Sources\ksBroadcastingNetwork\bin\Debug\log4net.dll
+D:\repos\ACC\Sources\ksBroadcastingNetwork\bin\Debug\log4net.xml
+D:\repos\ACC\Sources\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.csproj.CoreCompileInputs.cache
+D:\repos\ACC\Sources\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.csproj.CopyComplete
+D:\repos\ACC\Sources\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.dll
+D:\repos\ACC\Sources\ksBroadcastingNetwork\obj\Debug\ksBroadcastingNetwork.pdb
